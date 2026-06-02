@@ -1,0 +1,33 @@
+cluster_label,feature,value,feature_zscore
+Emerging deterioration,referrals,20252.78947368421,1.7131906812036262
+High-volume conversion deficit,referrals,5584.021416803954,-0.3328087489148722
+True no-slot bottleneck,referrals,2826.1581196581196,-0.7174754579680905
+Volatile access pattern,referrals,3217.3897849462364,-0.6629064743206635
+Emerging deterioration,positive_demand_gap,12154.709618874773,1.6235915452911545
+High-volume conversion deficit,positive_demand_gap,4923.214168039539,-0.01718605838058563
+True no-slot bottleneck,positive_demand_gap,2303.203703703704,-0.6116487833445236
+Volatile access pattern,positive_demand_gap,614.7096774193549,-0.9947567035660453
+Emerging deterioration,booking_absorption_rate,0.3697561125598495,-0.0073899266656972514
+High-volume conversion deficit,booking_absorption_rate,0.10129019704959219,-0.9764447527398672
+True no-slot bottleneck,booking_absorption_rate,0.19449470086653134,-0.6400136863827587
+Volatile access pattern,booking_absorption_rate,0.8216726293716019,1.623848365788323
+Emerging deterioration,absorption_weakness,0.6302438874401505,0.0073899266656972514
+High-volume conversion deficit,absorption_weakness,0.8987098029504077,0.9764447527398669
+True no-slot bottleneck,absorption_weakness,0.8055052991334687,0.6400136863827588
+Volatile access pattern,absorption_weakness,0.17832737062839796,-1.6238483657883234
+Emerging deterioration,asi_rate_per_10000,2691.0205801727056,-0.033149039624528864
+High-volume conversion deficit,asi_rate_per_10000,125.35160041346187,-1.5475503125772376
+True no-slot bottleneck,asi_rate_per_10000,4799.629075168007,1.2114695819403736
+Volatile access pattern,asi_rate_per_10000,3372.722880002317,0.36922977026139336
+Emerging deterioration,asi_persistence,0.8850936772443124,0.6996668058021817
+High-volume conversion deficit,asi_persistence,0.04217760090906714,-1.6459000353352142
+True no-slot bottleneck,asi_persistence,0.9548268089934757,0.8937118906588264
+Volatile access pattern,asi_persistence,0.6525318468866856,0.052521338874205875
+Emerging deterioration,absorption_volatility,0.0535062228959639,-0.3464520381289192
+High-volume conversion deficit,absorption_volatility,0.022922264584029406,-1.0292703149883682
+True no-slot bottleneck,absorption_volatility,0.05647390271381073,-0.28019553859981805
+Volatile access pattern,absorption_volatility,0.14319391951291854,1.655917891717105
+Emerging deterioration,absorption_trend_3m,-0.011718567096103697,0.18703847390053455
+High-volume conversion deficit,absorption_trend_3m,-0.0032403863234518084,0.48293047309606324
+True no-slot bottleneck,absorption_trend_3m,0.011268094106377085,0.9892824128328337
+Volatile access pattern,absorption_trend_3m,-0.0646202305801787,-1.6592513598294316
